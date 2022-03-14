@@ -1,0 +1,14 @@
+body {
+    background-color: blue;
+}
+
+
+#main-div {
+    display:flex;
+    justify-content: center;
+}
+
+#flex-div{
+    display: flex;
+    flex-direction: row;
+}
